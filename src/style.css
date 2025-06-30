@@ -59,3 +59,8 @@ p {
 .email-link:hover {
     background-color: #a94e00;
 }
+
+img.responsive-image {
+    max-width: 100%;
+    height: auto;
+}
